@@ -1,0 +1,44 @@
+<Installation Information> - PRODUCTION
+1. R-CLIPS Strategy Management Primary:
+    IP Local: 192.168.169.13
+    IP Public: 103.68.240.101
+
+    http://192.168.169.13:18082/RCLIPS_SITE/
+
+    ID / Password : admin / css123!@#
+
+ 
+2. R-CLIPS Strategy ManagementBackup:
+    IP Local: 192.168.169.14    
+    IP Public: 103.68.240.102
+
+    http://192.168.169.14:18082/RCLIPS_SITE/
+
+ 
+
+3. R-CLIPS Strategy Operating System Primary:
+    IP Local: 192.168.169.15
+    IP Public: 103.68.240.103
+
+   - R-CLIPS Batch module
+
+ 
+
+4. R-CLIPS Strategy Operating System Backup:
+    IP Local: 192.168.169.16
+    IP Public: 103.68.240.104
+
+   - R-CLIPS Batch module
+
+
+DEVELOPMENT
+VPN:
+Connection Name: Nice-VMG
+IP 103.68.240.10
+VPN TYPE: L2TP/IPsec with pre-shared key
+Pre-se key: vMG2022$^*
+User: nice1/vMg25052022$^*
+
+server rclips management-dev 172.16.105.82 
+server rclips operator-dev 172.16.105.83 
+user ssh rclips\Nice^%$#@!
