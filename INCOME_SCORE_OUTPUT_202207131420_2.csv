@@ -1,0 +1,11 @@
+Output specification,,,
+Type,csv,,
+Delimiter,",",,
+Naming,INCOME_SCORE_OUTPUT_20220713142.csv,,
+,,,
+Column name,Type,Means,Example value
+A0066,Long,APP_ID,430604
+A9065,Double,INCOME,9095407.102
+A9067,Double,Income_Pred,9095407.102
+A9068,Integer,Income_Grade_Cali,4
+A9069,Integer,Segment_output,2
